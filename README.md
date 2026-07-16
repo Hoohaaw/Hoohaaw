@@ -1,4 +1,4 @@
-<img src="./profile.svg?v=2" alt="I'm Alex Palm" width="100%" />
+<img src="./profile.svg?v=3" alt="I'm Alex Palm" width="100%" />
 
 ## Projects
 
