@@ -1,6 +1,4 @@
-<img src="./header.svg" alt="I'm Alex Palm" width="100%" />
-
-![terminal](./terminal.svg)
+<img src="./profile.svg" alt="I'm Alex Palm" width="100%" />
 
 ## Projects
 
