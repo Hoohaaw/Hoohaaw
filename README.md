@@ -45,4 +45,4 @@ A small embedded project reading live environmental data.
 ## Contact
 
 - Email: Alex.cj.palm@proton.me
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/alex-carl-johan-palm/
