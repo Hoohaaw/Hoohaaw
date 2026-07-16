@@ -1,4 +1,4 @@
-# Alex Palm
+<img src="./header.svg" alt="I'm Alex Palm" width="100%" />
 
 ![terminal](./terminal.svg)
 
@@ -44,5 +44,5 @@ A small embedded project reading live environmental data.
 
 ## Contact
 
-- Email:
+- Email: Alex.cj.palm@proton.me
 - LinkedIn:
